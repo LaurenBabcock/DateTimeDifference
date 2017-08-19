@@ -1,0 +1,6 @@
+c:\users\lorei_000\documents\visual studio 2017\Projects\differenceBetweenDates\differenceBetweenDates\bin\Debug\differenceBetweenDates.exe.config
+c:\users\lorei_000\documents\visual studio 2017\Projects\differenceBetweenDates\differenceBetweenDates\bin\Debug\differenceBetweenDates.exe
+c:\users\lorei_000\documents\visual studio 2017\Projects\differenceBetweenDates\differenceBetweenDates\bin\Debug\differenceBetweenDates.pdb
+c:\users\lorei_000\documents\visual studio 2017\Projects\differenceBetweenDates\differenceBetweenDates\obj\Debug\differenceBetweenDates.csprojResolveAssemblyReference.cache
+c:\users\lorei_000\documents\visual studio 2017\Projects\differenceBetweenDates\differenceBetweenDates\obj\Debug\differenceBetweenDates.exe
+c:\users\lorei_000\documents\visual studio 2017\Projects\differenceBetweenDates\differenceBetweenDates\obj\Debug\differenceBetweenDates.pdb
